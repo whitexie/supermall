@@ -18,8 +18,7 @@ export default {
   }
 }
 </script>
-  @import "assets/css/base.css";
 
-  position: relative;
 <style>
+  @import "assets/css/base.css";
 </style>
